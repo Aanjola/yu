@@ -1,0 +1,23 @@
+body {
+    background-color: rgba(217, 250, 215, 0.699);
+}
+
+h1 {
+    color: coral;
+}
+
+h2{
+    text-shadow: 4px 6px rgba(204, 255, 0, 0.749);
+}
+
+h2{
+    letter-spacing: 4px;
+}
+
+h2 {
+    font-variant: small-caps;
+}
+
+h1 {
+    word-spacing: 4px;
+}
